@@ -1,3 +1,5 @@
+⚠️ !! *See https://github.com/vvanholl/elasticsearch-consul-discovery for an up to date version of this plugin* !! ⚠️ 
+
 Consul Based Discovery Plugin for Elasticsearch
 ======================================
 
